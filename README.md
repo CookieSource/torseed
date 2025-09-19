@@ -3,7 +3,7 @@ A tiny Rust CLI for Linux to create .torrent files (with one or more trackers). 
 
 ## Prerequisites
 
-Linux & rust 
+Linux & Rust 
 
 ```
 # clone
